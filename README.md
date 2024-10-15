@@ -1,55 +1,31 @@
-# Welcome to My Professional Portfolio
+<h1 align="center">Hi 👋, I'm Vincent TRAN</h1>
+<h3 align="center">A passionate python developer from France</h3>
 
-## About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vincent-tran-94&label=Profile%20views&color=0e75b6&style=flat" alt="vincent-tran-94" /> </p>
 
-I am a passionate **Web Developer** and **Data Scientist** with expertise in **Python**, **SQL**, **HTML**, and **CSS**. I thrive on creating innovative solutions and applying data-driven insights to solve real-world problems.
+- 🔭 I’m currently working on [Flask application quiz](https://github.com/Preserve-ton-Droit/Quiz_PTD_application)
 
-## Projects
+- 🌱 I’m currently learning **Cloud Computing, Data Science, Web developpement**
 
-### 1. Embedded Systems Project
-- **Description**: Developed an embedded system to automate [specific function or application].
-- **Technologies Used**: [List of technologies, e.g., C, Arduino, Raspberry Pi].
-- **Highlights**:
-  - Achieved [specific achievement, e.g., improved efficiency by X%].
-  - [Other notable feature or accomplishment].
+- 👨‍💻 All of my projects are available at [https://vincent-tran-94.github.io/](https://vincent-tran-94.github.io/)
 
-![Embedded Systems](path/to/embedded_systems_image.jpg)
+- 💬 Ask me about **Python**
 
-### 2. Data Science Project
-- **Description**: Conducted an analysis to [describe the goal, e.g., predict customer behavior using machine learning].
-- **Technologies Used**: Python, Pandas, NumPy, Scikit-learn, [any other relevant tools].
-- **Highlights**:
-  - Created visualizations that helped stakeholders understand the data.
-  - Developed a machine learning model that [describe the outcome, e.g., increased prediction accuracy by X%].
+- 📫 How to reach me **vincenttran94@hotmail.fr**
 
-![Data Science](path/to/data_science_image.jpg)
+- ⚡ Fun fact **I am serious**
 
-### 3. Web Development Project
-- **Description**: Built a responsive website for [project/client name or purpose].
-- **Technologies Used**: HTML, CSS, JavaScript, [any frameworks or libraries].
-- **Highlights**:
-  - Implemented a user-friendly interface that enhanced user experience.
-  - Optimized website performance, achieving [specific metrics, e.g., load time reduced to X seconds].
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vincent-tran-94400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincent-tran-94400" height="30" width="40" /></a>
+<a href="https://discord.gg/Kagaku#4032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kagaku#4032" height="30" width="40" /></a>
+</p>
 
-![Web Development](path/to/web_development_image.jpg)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-## Skills
-- **Programming Languages**: Python, SQL, HTML, CSS
-- **Data Analysis Tools**: [List tools such as Pandas, NumPy, etc.]
-- **Web Development Frameworks**: [List frameworks such as Flask, Django, etc.]
-- **Other Skills**: [List other relevant skills]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincent-tran-94&show_icons=true&locale=en&layout=compact" alt="vincent-tran-94" /></p>
 
-## Portfolio
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincent-tran-94&show_icons=true&locale=en" alt="vincent-tran-94" /></p>
 
-Explore my work and projects on my portfolio: [Your Portfolio Link](https://yourportfolio.com)
-
-## Contact
-
-Feel free to reach out to me:
-
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-
----
-
-Thank you for visiting my portfolio! I look forward to connecting with you.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincent-tran-94&" alt="vincent-tran-94" /></p>

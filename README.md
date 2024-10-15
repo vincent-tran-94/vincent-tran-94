@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing, Data Science, Web developpement**
 
-- 👨‍💻 All of my projects are available at [https://vincent-tran-94.github.io/](https://vincent-tran-94.github.io/)
+- 👨‍💻 My portfolio for the best projects [https://vincent-tran-94.github.io/](https://vincent-tran-94.github.io/)
 
 - 💬 Ask me about **Python**
 

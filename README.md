@@ -29,4 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincent-tran-94&" alt="vincent-tran-94" /></p>
 
-![snake gif](https://github.com/vincent-tran-94/vincent-tran-94/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github.com/vincent-tran-94/vincent-tran-94/blob/output/github-contribution-grid-snake.svg">
+
+

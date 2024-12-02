@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincent-tran-94&label=Profile%20views&color=0e75b6&style=flat" alt="vincent-tran-94" /> </p>
 
-- 🔭 I’m currently working on [Flask application quiz](https://github.com/Preserve-ton-Droit/Quiz_PTD_application) and [Server Minecraft] (https://github.com/vincent-tran-94/Juricraft_Server)
+- 🔭 I’m currently working on [Flask application quiz](https://github.com/Preserve-ton-Droit/Quiz_PTD_application) and [Server Minecraft](https://github.com/vincent-tran-94/Juricraft_Server)
 
 - 🌱 I’m currently learning **Cloud Computing, Data Science, Web developpement**
 
